@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Rsrc-Class-Path: ./ nrjavaserial-3.11.0.jar abb_pt_java.jar
+Class-Path: .
+Rsrc-Main-Class: com.gridscape.nayax.PosTerminal
+Main-Class: org.eclipse.jdt.internal.jarinjarloader.JarRsrcLoader
+
